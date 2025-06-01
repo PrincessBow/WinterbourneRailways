@@ -1402,8 +1402,7 @@
             "color": "#fcd20e",
             "y": 0,
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/carolina.png"
-        }
-		,
+        },
         {
             "name": "Metro - Castle",
             "x": -0,
@@ -1415,7 +1414,7 @@
             "color": "",
             "y": 0,
             "image": ""
-        }
+        },
     ],
     "presentations": [
         {
