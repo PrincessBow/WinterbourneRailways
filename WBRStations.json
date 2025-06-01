@@ -5,18 +5,7 @@
         "last_update": 1748663926
     },
     "features": [
-        {
-            "name": "Cascadia",
-            "x": 4061,
-            "z": -5315,
-            "dest": "/dest ! +,- impendia cascadia",
-            "level": 3,
-            "zoom": 4,
-            "id": "civmap:onedest/station/cascadia",
-            "color": "#d9b5ff",
-            "y": 7,
-            "image": "https://raw.githubusercontent.com/OneDest/data/master/images/cascadia.png"
-        },
+        
         {
             "name": "NewJersey",
             "x": 3561,
