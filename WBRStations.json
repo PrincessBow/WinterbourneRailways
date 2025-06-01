@@ -1404,8 +1404,8 @@
             "image": "https://raw.githubusercontent.com/OneDest/data/master/images/carolina.png"
         },
         {
-            "name": "Metro - Castle",
-            "x": -0,
+            "name": "MetroCastle",
+            "x": 0,
             "z": 8000,
             "dest": "/dest Castle",
             "level": 3,
